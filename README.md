@@ -198,4 +198,4 @@ This project uses classical Haar cascades deliberately:
 
 * Sensitive to extreme angles and lighting
 
-Detection only (no OCR yet)
+* Detection only (no OCR yet)
